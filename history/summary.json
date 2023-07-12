@@ -16,7 +16,7 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-07-12": 13
+      "2023-07-12": 24
     }
   },
   {
@@ -36,5 +36,45 @@
     "timeMonth": 1044,
     "timeYear": 1044,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.bukitasam.co.id",
+    "icon": "https://icons.duckduckgo.com/ip3/sentry.bukitasam.co.id.ico",
+    "slug": "sentry",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
+  },
+  {
+    "name": "S3",
+    "url": "https://s3.bukitasam.co.id",
+    "icon": "https://icons.duckduckgo.com/ip3/s3.bukitasam.co.id.ico",
+    "slug": "s3",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   }
 ]
