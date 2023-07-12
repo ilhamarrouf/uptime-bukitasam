@@ -5,6 +5,9 @@ repo: uptime-bukitasam # The name of this repository
 sites:
   - name: CISEA
     url: https://cisea.bukitasam.co.id
+  - name: BATIC
+    url: https://batic.cisea.bukitasam.co.id
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,8 +16,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Status
-  introTitle: "**Bukit Asam System Status** Bukit Asam provides performance and security to website owners via its intelligent global network. This is the system status for the Bukit Asam service, both edge network and dashboard/APIs."
-  introMessage: Welcome to Bukit Asam System Status for real-time and historical service on system performance
+  introTitle: "**Bukit Asam System Status**"
+  introMessage: Bukit Asam provides performance and security to website owners via its intelligent global network. This is the system status for the Bukit Asam service, both edge network and dashboard/APIs.
   navbar:
     - title: Status
       href: /
