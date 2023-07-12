@@ -7,6 +7,10 @@ sites:
     url: https://cisea.bukitasam.co.id
   - name: BATIC
     url: https://batic.cisea.bukitasam.co.id
+  - name: Sentry
+    url: https://sentry.bukitasam.co.id
+  - name: S3
+    url: https://s3.bukitasam.co.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
