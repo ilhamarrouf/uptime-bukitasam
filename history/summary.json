@@ -4,19 +4,19 @@
     "url": "https://cisea.bukitasam.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/cisea.bukitasam.co.id.ico",
     "slug": "cisea",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "14.01%",
+    "uptimeDay": "14.01%",
+    "uptimeWeek": "14.01%",
+    "uptimeMonth": "14.01%",
+    "uptimeYear": "14.01%",
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-07-12": 24
+      "2023-07-12": 58
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://sentry.bukitasam.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/sentry.bukitasam.co.id.ico",
     "slug": "sentry",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 163,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "status": "up",
+    "uptime": "20.72%",
+    "uptimeDay": "20.72%",
+    "uptimeWeek": "20.72%",
+    "uptimeMonth": "20.72%",
+    "uptimeYear": "20.72%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-07-12": 1
+      "2023-07-12": 34
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://s3.bukitasam.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/s3.bukitasam.co.id.ico",
     "slug": "s3",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "status": "up",
+    "uptime": "20.70%",
+    "uptimeDay": "20.70%",
+    "uptimeWeek": "20.70%",
+    "uptimeMonth": "20.70%",
+    "uptimeYear": "20.70%",
+    "time": 183,
+    "timeDay": 183,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-07-12": 1
+      "2023-07-12": 34
     }
   }
 ]
