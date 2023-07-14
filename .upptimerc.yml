@@ -7,6 +7,10 @@ sites:
     url: https://cisea.bukitasam.co.id
     expectedStatusCodes: 
       - 403
+  - name: SPEND
+    url: https://spend.bukitasam.co.id
+    expectedStatusCodes: 
+      - 403
   - name: BATIC
     url: https://batic.cisea.bukitasam.co.id
   - name: Sentry
