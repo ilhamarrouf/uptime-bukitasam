@@ -27,10 +27,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bukitasam.co.id
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime Status
+  logoUrl: https://raw.githubusercontent.com/ilhamarrouf/uptime-bukitasam/master/assets/ptba-x.png
+  name: Bukit Asam System Status
   introTitle: "**Bukit Asam System Status**"
-  introMessage: Bukit Asam provides performance and security to website owners via its intelligent global network. This is the system status for the Bukit Asam service, both edge network and dashboard/APIs.
+  introMessage: Bukit Asam provides performance and security to website via its intelligent global network. This is the system status for the Bukit Asam service, both edge network and dashboard/APIs.
   navbar:
     - title: Status
       href: /
