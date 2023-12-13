@@ -14,7 +14,7 @@ sites:
       - 200
       - 403
   - name: BATIC
-    url: https://batic.cisea.bukitasam.co.id
+    url: https://batic.cisea.bukitasam.co.id/app/
   - name: Sentry
     url: https://sentry.bukitasam.co.id
     expectedStatusCodes: 
