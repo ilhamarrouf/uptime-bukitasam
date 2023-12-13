@@ -5,21 +5,25 @@ repo: uptime-bukitasam # The name of this repository
 sites:
   - name: CISEA
     url: https://cisea.bukitasam.co.id
-    expectedStatusCodes: 
+    expectedStatusCodes:
+      - 200
       - 403
   - name: SPEND
     url: https://spend.bukitasam.co.id
     expectedStatusCodes: 
+      - 200
       - 403
   - name: BATIC
     url: https://batic.cisea.bukitasam.co.id
   - name: Sentry
     url: https://sentry.bukitasam.co.id
     expectedStatusCodes: 
+      - 200
       - 403
   - name: S3
     url: https://s3.bukitasam.co.id
-    expectedStatusCodes: 
+    expectedStatusCodes:
+      - 200
       - 403
 
 status-website:
