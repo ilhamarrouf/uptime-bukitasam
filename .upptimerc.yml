@@ -15,16 +15,6 @@ sites:
       - 403
   - name: BATIC
     url: https://batic.cisea.bukitasam.co.id/app/
-  - name: Sentry
-    url: https://sentry.bukitasam.co.id
-    expectedStatusCodes: 
-      - 200
-      - 403
-  - name: S3
-    url: https://s3.bukitasam.co.id
-    expectedStatusCodes:
-      - 200
-      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
